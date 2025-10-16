@@ -12,11 +12,11 @@ Impulsar la transformación digital de nuestros clientes mediante soluciones tec
 Ser líderes en innovación tecnológica en Latinoamérica, brindando herramientas que mejoren la productividad y competitividad de las organizaciones.
 
 ## Valores
-- 🔹 Innovación constante  
-- 🔹 Compromiso con la calidad  
-- 🔹 Transparencia y confianza  
-- 🔹 Orientación al cliente  
-- 🔹 Responsabilidad social y ambiental  
+🔹 Innovación constante  
+🔹 Compromiso con la calidad  
+🔹 Transparencia y confianza  
+🔹 Orientación al cliente  
+🔹 Responsabilidad social y ambiental  
 
 ---
 
