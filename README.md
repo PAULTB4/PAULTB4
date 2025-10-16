@@ -1,6 +1,4 @@
-# 🚀 Zentry Corp
-
-![Zentry Logo](./img/logo_final.png)
+# Zentry Corp
 
 **Zentry Corp** es una empresa innovadora dedicada a ofrecer soluciones tecnológicas que impulsan la transformación digital de negocios y personas.  
 Nos especializamos en **desarrollo de software, consultoría en TI, automatización de procesos y soluciones en la nube**, siempre con un enfoque en **calidad, seguridad y escalabilidad**.
