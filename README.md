@@ -1,33 +1,47 @@
-# Zentry
+<h1 align="center">Hola 👋, soy Paul</h1>
+<h3 align="center">Disfruto desarrollando software</h3>
 
-Somos una empresa innovadora dedicada a ofrecer soluciones tecnológicas que impulsan la transformación digital de negocios y personas.  
-Nos especializamos en **desarrollo de software, consultoría en TI, automatización de procesos y soluciones en la nube**, siempre con un enfoque en **calidad, seguridad y escalabilidad**.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paultb3&label=Profile%20views&color=0e75b6&style=flat" alt="paultb3" /> </p>
 
----
+- 🌱 Actualmente estoy aprendiendo **React, Spring Boot, Metodologias Agiles**
 
-## Misión
-Impulsar la transformación digital de nuestros clientes mediante soluciones tecnológicas eficientes, seguras y adaptadas a sus necesidades.
+<h3 align="left">Contacta conmigo para realizar trabajos en equipo y colaborativos!!</h3>
+<p align="left">
+</p>
 
-## Visión
-Ser líderes en innovación tecnológica en Latinoamérica, brindando herramientas que mejoren la productividad y competitividad de las organizaciones.
-
-## Valores
-🔹 Innovación constante  
-🔹 Compromiso con la calidad  
-🔹 Transparencia y confianza  
-🔹 Orientación al cliente  
-🔹 Responsabilidad social y ambiental  
-
----
-
-## Áreas de trabajo
-
-| Área | Descripción |
-|------|--------------|
-| **Desarrollo de Software** | Aplicaciones web, móviles y de escritorio adaptadas a cada cliente. |
-| **Consultoría TI** | Infraestructura, seguridad informática y virtualización. |
-| **Automatización** | RPA, n8n, DevOps y orquestación con Kubernetes. |
-| **Cloud Computing** | Soluciones en AWS, Azure y Google Cloud Platform. |
-| **Educación Digital** | Capacitación en tecnologías emergentes y metodologías ágiles. |
-
----
+<h3 align="left">Lenguajes y herramientas:</h3>
+<p align="left"> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a>
+</p>
