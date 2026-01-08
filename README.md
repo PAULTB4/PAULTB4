@@ -46,15 +46,22 @@
   </a>
 </p>
 
-<h3 align="left">📈 Mis estadísticas en GitHub</h3>
+---
+
+## 📈 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paultb3&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=paultb3&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paultb3&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paultb3&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+---
+
+
+
+
+
+
 
 
 
