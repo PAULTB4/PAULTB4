@@ -46,11 +46,18 @@
   </a>
 </p>
 
-<h3 align="left">📊 Lenguajes más usados</h3>
+<h3 align="left">📈 Mis estadísticas en GitHub</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paultb3&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paultb3&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
+
+
+
 
 
 
