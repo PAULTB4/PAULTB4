@@ -45,3 +45,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
+
+<h3 align="left">📊 Lenguajes más usados</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paultb3&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+
+
