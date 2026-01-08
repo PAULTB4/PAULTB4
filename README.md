@@ -48,14 +48,14 @@
 
 ---
 
-## 📈 Estadísticas
+## Lenguajes más usados
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=paultb3&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paultb3&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paultb3&theme=github_dark&cache_seconds=1800" />
 </p>
 
 ---
+
 
 
 
